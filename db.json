@@ -5,6 +5,7 @@
         "posts": [
           {
             "post_id": "p123456789",
+            "post_url": "https://socialmedia.com/post/p123456789",
             "author": {
               "user_id": "u789",
               "username": "john_doe",
@@ -27,11 +28,25 @@
             "likes_count": 342,
             "comments_count": 23,
             "shares_count": 12,
+            "top_comment": {
+              "comment_id": "c456789",
+              "author": {
+                "user_id": "u555",
+                "username": "adventure_lover",
+                "display_name": "Sarah Adventure",
+                "profile_picture": "https://example.com/profiles/sarah.jpg"
+              },
+              "content": "This looks incredible! Which trail did you take? I've been wanting to do this hike! 😍",
+              "likes_count": 45,
+              "replies_count": 8,
+              "created_at": "2023-07-15T15:30:22Z"
+            },
             "created_at": "2023-07-15T14:23:45Z",
             "location": "Rocky Mountains"
           },
           {
             "post_id": "p987654321",
+            "post_url": "https://socialmedia.com/post/p987654321",
             "author": {
               "user_id": "u456",
               "username": "jane_smith",
@@ -43,10 +58,24 @@
             "likes_count": 156,
             "comments_count": 45,
             "shares_count": 28,
+            "top_comment": {
+              "comment_id": "c123456",
+              "author": {
+                "user_id": "u999",
+                "username": "webdev_pro",
+                "display_name": "Web Developer Pro",
+                "profile_picture": "https://example.com/profiles/webdev.jpg"
+              },
+              "content": "The design is absolutely stunning! Love the minimalist approach and the color scheme. Great job! 👏",
+              "likes_count": 67,
+              "replies_count": 3,
+              "created_at": "2023-07-15T10:45:12Z"
+            },
             "created_at": "2023-07-15T10:15:30Z"
           },
           {
             "post_id": "p456789123",
+            "post_url": "https://socialmedia.com/post/p456789123",
             "author": {
               "user_id": "u123",
               "username": "tech_guru",
@@ -65,6 +94,19 @@
             "likes_count": 892,
             "comments_count": 167,
             "shares_count": 234,
+            "top_comment": {
+              "comment_id": "c789123",
+              "author": {
+                "user_id": "u777",
+                "username": "ai_researcher",
+                "display_name": "AI Researcher",
+                "profile_picture": "https://example.com/profiles/airesearcher.jpg"
+              },
+              "content": "Excellent breakdown of the latest GPT developments! One thing to add is that recent research shows even more promising results in few-shot learning. Would love to see a follow-up video on that specific topic! 🤖",
+              "likes_count": 234,
+              "replies_count": 15,
+              "created_at": "2023-07-14T19:15:33Z"
+            },
             "created_at": "2023-07-14T18:30:00Z",
             "tags": ["tech", "AI", "future"]
           }
@@ -74,5 +116,11 @@
           "total_pages": 45,
           "next_page": "https://api.example.com/posts?page=2"
         }
-      }
+      },
+
+    "instagram": {},
+
+    "twitter": {},
+
+    "linkedin": {}
 }
