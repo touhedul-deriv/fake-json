@@ -9,22 +9,44 @@
                 "username": "forex_trader_pro",
                 "display_name": "Michael Forex"
             },
-            "content": "Just completed my first month trading on Deriv MT5! The execution speed is incredible, and the spreads are really competitive. Love how seamless the deposit process is. 📈 #DerivTrading #MT5 #ForexTrading #DerivSynthetics",
-            "likes_count": 342,
-            "comments_count": 23,
-            "shares_count": 12,
-            "top_comment": {
-                "comment_id": "c456789",
-                "author": {
-                    "user_id": "u555",
-                    "username": "trading_mentor",
-                    "display_name": "Sarah Trading"
-                },
-                "content": "Great results! Deriv's MT5 is indeed one of the best. Have you tried their Deriv X platform as well? The UI is even better for quick trades! 🚀",
-                "likes_count": 45,
-                "replies_count": 8,
-                "created_at": "2023-07-15T15:30:22Z"
+            "content": "Just completed my first month trading on Deriv MT5! The execution speed is incredible, and the spreads are really competitive. Love how seamless the deposit process is. My returns this month exceeded expectations! 📈 #DerivTrading #MT5 #ForexTrading",
+            "engagement": {
+                "reactions": 342,
+                "comments_count": 23,
+                "shares_count": 12
             },
+            "comments": [
+                {
+                    "comment_id": "c456789",
+                    "author": {
+                        "user_id": "u555",
+                        "username": "trading_mentor",
+                        "display_name": "Sarah Trading"
+                    },
+                    "content": "Great results! Deriv's MT5 is indeed one of the best. Have you tried their Deriv X platform as well? The UI is even better for quick trades! 🚀",
+                    "engagement": {
+                        "reactions": 45,
+                        "replies_count": 8,
+                        "shares": 3
+                    },
+                    "created_at": "2023-07-15T15:30:22Z"
+                },
+                {
+                    "comment_id": "c456790",
+                    "author": {
+                        "user_id": "u556",
+                        "username": "pro_trader",
+                        "display_name": "John Markets"
+                    },
+                    "content": "The spreads are unbeatable! Been using their platform for 2 years now. Also, try out their synthetic indices - great for practicing different strategies.",
+                    "engagement": {
+                        "reactions": 38,
+                        "replies_count": 5,
+                        "shares": 2
+                    },
+                    "created_at": "2023-07-15T15:45:22Z"
+                }
+            ],
             "created_at": "2023-07-15T14:23:45Z",
             "location": "Singapore"
         },
@@ -36,189 +58,209 @@
                 "username": "crypto_enthusiast",
                 "display_name": "Alex Crypto"
             },
-            "content": "Not happy with the verification process on Deriv today. Been waiting for 48 hours now. Support team needs to be more responsive. Hope this gets resolved soon. #Deriv #CustomerService #TradingPlatform",
-            "likes_count": 156,
-            "comments_count": 45,
-            "shares_count": 28,
-            "top_comment": {
-                "comment_id": "c123456",
-                "author": {
-                    "user_id": "u999",
-                    "username": "deriv_support",
-                    "display_name": "Deriv Support"
-                },
-                "content": "Hi Alex, we apologize for the delay. Could you please DM us your client ID? We'll look into this immediately and expedite your verification process.",
-                "likes_count": 67,
-                "replies_count": 3,
-                "created_at": "2023-07-15T10:45:12Z"
-            },
-            "created_at": "2023-07-15T10:15:30Z"
-        },
-        {
-            "post_id": "p456789123",
-            "post_url": "https://example.com/facebook/post/p456789123",
-            "author": {
-                "user_id": "u123",
-                "username": "options_master",
-                "display_name": "Trading Expert"
-            },
-            "content": "Just tried Deriv's new SmartTrader platform for binary options - absolutely amazing! The chart analysis tools and quick stake options are game-changers. Made 15 successful trades today! Check out my tutorial video below 👇 #DerivOptions #BinaryOptions #SmartTrader #DerivTrading",
-            "likes_count": 892,
-            "comments_count": 167,
-            "shares_count": 234,
-            "top_comment": {
-                "comment_id": "c789123",
-                "author": {
-                    "user_id": "u777",
-                    "username": "binary_trader",
-                    "display_name": "Binary Pro Trader"
-                },
-                "content": "Great video! The multiplier options on Deriv are also worth checking out. Lower risk and better control over your trades. Would love to see your strategy on those! 📊",
-                "likes_count": 234,
-                "replies_count": 15,
-                "created_at": "2023-07-14T19:15:33Z"
-            },
-            "created_at": "2023-07-14T18:30:00Z",
-            "tags": [
-                "DerivTrading",
-                "BinaryOptions",
-                "SmartTrader",
-                "TradingTutorial"
-            ]
-        },
-        {
-            "post_id": "p567123890",
-            "post_url": "https://example.com/facebook/post/p567123890",
-            "author": {
-                "id": "u345123",
-                "username": "crypto_newbie",
-                "display_name": "Alex Turner",
-                "followers_count": 892
-            },
-            "content": "Fed up with MetaTrader on my current broker. Anyone know a reliable platform for forex and crypto trading? Looking for something with good customer support and quick withdrawals. #TradingPlatform #ForexTrading",
+            "content": "Extremely disappointed with Deriv's verification process. Been waiting for 72 hours now, missing trading opportunities. Support team keeps giving automated responses. Not what I expected from a supposedly professional platform. #Deriv #CustomerService #TradingPlatform",
             "engagement": {
-                "likes": 67,
-                "comments": 31,
-                "shares": 5
+                "reactions": 156,
+                "comments_count": 45,
+                "shares_count": 28
             },
-            "timestamp": "2023-11-15T14:22:10Z",
-            "hashtags": [
-                "TradingPlatform",
-                "ForexTrading"
-            ],
-            "top_comment": {
-                "comment_id": "c789012",
-                "author": {
-                    "id": "u567123",
-                    "username": "trade_master",
-                    "display_name": "Trade Master"
+            "comments": [
+                {
+                    "comment_id": "c123456",
+                    "author": {
+                        "user_id": "u999",
+                        "username": "deriv_support",
+                        "display_name": "Deriv Support"
+                    },
+                    "content": "Hi Alex, we apologize for the delay. Could you please DM us your client ID? We'll look into this immediately and expedite your verification process.",
+                    "engagement": {
+                        "reactions": 67,
+                        "replies_count": 3,
+                        "shares": 0
+                    },
+                    "created_at": "2023-07-15T10:45:12Z"
                 },
-                "content": "Try @DerivDotCom. They offer MT5 plus their own platforms. Been using them for 2 years, withdrawals are usually processed within 24 hours.",
-                "likes": 28,
-                "timestamp": "2023-11-15T14:45:33Z"
-            }
+                {
+                    "comment_id": "c123457",
+                    "author": {
+                        "user_id": "u998",
+                        "username": "trader_jane",
+                        "display_name": "Jane Smith"
+                    },
+                    "content": "Having the same issue! Been stuck in verification for 4 days now. They need to improve their onboarding process.",
+                    "engagement": {
+                        "reactions": 89,
+                        "replies_count": 7,
+                        "shares": 1
+                    },
+                    "created_at": "2023-07-15T11:00:15Z"
+                }
+            ],
+            "created_at": "2023-07-15T10:15:30Z"
         },
         {
             "post_id": "p678912345",
             "post_url": "https://example.com/facebook/post/p678912345",
             "author": {
-                "id": "u789456",
-                "username": "options_trader_pro",
-                "display_name": "Options Trader Pro",
-                "followers_count": 3421
+                "user_id": "u789456",
+                "username": "market_analyst",
+                "display_name": "Market Analyst Pro"
             },
-            "content": "Comparison of CFD platforms:\nBroker A: High fees, good interface\nBroker B: Average all around\nDeriv: Better spreads, multiple platforms (MT5, DTrader, DBot), but mobile app needs work\nBroker D: Good for beginners but limited features\n\nWhat's your experience? #TradingPlatforms #CFDTrading",
+            "content": "Honest review of current trading platforms:\nDeriv: Good spread range, multiple platform options (MT5, DTrader, DBot), decent customer service, mobile app needs improvement\nOther platforms have their pros and cons too. It really depends on your trading style and needs. #TradingPlatforms #Trading",
             "engagement": {
-                "likes": 234,
-                "comments": 89,
-                "shares": 45
+                "reactions": 234,
+                "comments_count": 89,
+                "shares_count": 45
             },
-            "timestamp": "2023-11-14T18:15:22Z",
-            "hashtags": [
-                "TradingPlatforms",
-                "CFDTrading"
-            ],
-            "top_comment": {
-                "comment_id": "c901234",
-                "author": {
-                    "id": "u123789",
-                    "username": "daily_trader",
-                    "display_name": "Daily Trader"
+            "comments": [
+                {
+                    "comment_id": "c901234",
+                    "author": {
+                        "user_id": "u123789",
+                        "username": "daily_trader",
+                        "display_name": "Daily Trader"
+                    },
+                    "content": "Been using Deriv for 6 months. The spreads are competitive and synthetic indices are unique, but agree about the mobile app needing work.",
+                    "engagement": {
+                        "reactions": 56,
+                        "replies_count": 6,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-14T19:02:15Z"
                 },
-                "content": "Been using Deriv for 6 months. The spreads are indeed competitive. Their synthetic indices are unique, but agree about the mobile app - needs better charting tools.",
-                "likes": 56,
-                "timestamp": "2023-11-14T19:02:15Z"
-            }
+                {
+                    "comment_id": "c901235",
+                    "author": {
+                        "user_id": "u123790",
+                        "username": "new_trader_22",
+                        "display_name": "Sam Wilson"
+                    },
+                    "content": "Interested in trying Deriv but not sure about their withdrawal process and fees. Anyone have recent experience with this? Looking for something reliable for long-term trading.",
+                    "engagement": {
+                        "reactions": 42,
+                        "replies_count": 8,
+                        "shares": 1
+                    },
+                    "created_at": "2023-11-14T19:15:20Z"
+                },
+                {
+                    "comment_id": "c901236",
+                    "author": {
+                        "user_id": "u123791",
+                        "username": "forex_expert",
+                        "display_name": "Forex Expert"
+                    },
+                    "content": "Each platform has its strengths. I use multiple platforms including Deriv for different types of trades. Diversification is key.",
+                    "engagement": {
+                        "reactions": 38,
+                        "replies_count": 4,
+                        "shares": 0
+                    },
+                    "created_at": "2023-11-14T19:30:25Z"
+                }
+            ],
+            "created_at": "2023-11-14T18:15:22Z"
         },
         {
             "post_id": "p789123456",
             "post_url": "https://example.com/facebook/post/p789123456",
             "author": {
-                "id": "u234890",
+                "user_id": "u234890",
                 "username": "maria.invest",
-                "display_name": "Maria Rodriguez",
-                "followers_count": 5632
+                "display_name": "Maria Rodriguez"
             },
-            "content": "🎓 Just finished my finance degree! Looking to start my trading journey. Been researching platforms that offer good educational resources and demo accounts. Any recommendations from experienced traders? #NewTrader #FinanceGrad #CareerStart",
+            "content": "🎓 Just finished my finance degree! Looking to start my trading journey. Heard good things about Deriv's demo accounts and educational resources. Would love some insights from experienced traders! #NewTrader #FinanceGrad #CareerStart",
             "engagement": {
-                "likes": 892,
-                "comments": 156,
-                "shares": 23
+                "reactions": 892,
+                "comments_count": 156,
+                "shares_count": 23
             },
-            "timestamp": "2023-11-13T08:45:12Z",
-            "hashtags": [
-                "NewTrader",
-                "FinanceGrad",
-                "CareerStart"
-            ],
-            "top_comment": {
-                "comment_id": "c456789",
-                "author": {
-                    "id": "u678912",
-                    "username": "elite_trader",
-                    "display_name": "Elite Trader"
+            "comments": [
+                {
+                    "comment_id": "c456789",
+                    "author": {
+                        "user_id": "u678912",
+                        "username": "elite_trader",
+                        "display_name": "Elite Trader"
+                    },
+                    "content": "Deriv's demo account is great for beginners. Start with DTrader - it's more user-friendly. Their tutorials are comprehensive too!",
+                    "engagement": {
+                        "reactions": 145,
+                        "replies_count": 12,
+                        "shares": 8
+                    },
+                    "created_at": "2023-11-13T09:12:34Z"
                 },
-                "content": "Check out Deriv.com - they have comprehensive tutorials, free demo accounts, and you can start with small deposits. Their DTrader platform is perfect for beginners.",
-                "likes": 145,
-                "timestamp": "2023-11-13T09:12:34Z"
-            }
+                {
+                    "comment_id": "c456790",
+                    "author": {
+                        "user_id": "u678913",
+                        "username": "trading_coach",
+                        "display_name": "Trading Coach"
+                    },
+                    "content": "Welcome to the trading world! Deriv's a good choice for beginners. Make sure to practice risk management and start small. Happy to guide you through the basics!",
+                    "engagement": {
+                        "reactions": 98,
+                        "replies_count": 7,
+                        "shares": 4
+                    },
+                    "created_at": "2023-11-13T09:25:40Z"
+                }
+            ],
+            "created_at": "2023-11-13T08:45:12Z"
         },
         {
             "post_id": "p891234567",
             "post_url": "https://example.com/facebook/post/p891234567",
             "author": {
-                "id": "u456123",
-                "username": "tech_reviewer",
-                "display_name": "Tech Review Pro",
-                "followers_count": 12453
+                "user_id": "u456123",
+                "username": "foodie_adventures",
+                "display_name": "Chef Sarah"
             },
-            "content": "API integration capabilities of popular trading platforms:\n✅ Deriv: Solid API docs, good for bot development\n✅ Broker X: Limited API access\n✅ Broker Y: No API for retail traders\n\nDevelopers, which platform's API do you prefer? #TradingAPI #FinTech",
+            "content": "🍜 Finally mastered the perfect Ramen recipe! After 6 months of experimenting, found the secret to that umami-rich broth. Homemade noodles make such a difference! Swipe for the step-by-step process and recipe in comments. #HomeCooking #RamenLover #Foodie",
             "engagement": {
-                "likes": 567,
-                "comments": 89,
-                "shares": 78
+                "reactions": 567,
+                "comments_count": 89,
+                "shares_count": 78
             },
-            "timestamp": "2023-11-12T16:33:21Z",
-            "hashtags": [
-                "TradingAPI",
-                "FinTech"
-            ],
-            "top_comment": {
-                "comment_id": "c567890",
-                "author": {
-                    "id": "u891234",
-                    "username": "bot_developer",
-                    "display_name": "Bot Developer"
+            "comments": [
+                {
+                    "comment_id": "c567890",
+                    "author": {
+                        "user_id": "u891234",
+                        "username": "noodle_master",
+                        "display_name": "Asian Cuisine Lover"
+                    },
+                    "content": "That broth looks incredible! The perfect balance of ingredients. Could you share your noodle-making technique? Mine always end up too chewy.",
+                    "engagement": {
+                        "reactions": 92,
+                        "replies_count": 8,
+                        "shares": 4
+                    },
+                    "created_at": "2023-11-12T17:15:44Z"
                 },
-                "content": "Deriv's API is well-documented and their support team is responsive. Built several trading bots using their system. The websocket API is particularly reliable.",
-                "likes": 92,
-                "timestamp": "2023-11-12T17:15:44Z"
-            }
+                {
+                    "comment_id": "c567891",
+                    "author": {
+                        "user_id": "u891235",
+                        "username": "home_cook_101",
+                        "display_name": "Home Cook"
+                    },
+                    "content": "Made this recipe last night - absolute game changer! The marinated eggs were perfect. Thanks for sharing your journey!",
+                    "engagement": {
+                        "reactions": 78,
+                        "replies_count": 5,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-12T18:20:30Z"
+                }
+            ],
+            "created_at": "2023-11-12T16:33:21Z",
+            "hashtags": [
+                "HomeCooking",
+                "RamenLover",
+                "Foodie"
+            ]
         }
-    ],
-    "pagination": {
-        "current_page": 1,
-        "total_pages": 45,
-        "next_page": "https://example.com/facebook/posts?page=2"
-    }
+    ]
 }

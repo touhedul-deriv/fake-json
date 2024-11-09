@@ -2,192 +2,267 @@
     "success": true,
     "posts": [
         {
-            "post_id": "ig_983745291",
-            "post_url": "https://example.com/instagram/p/983745291",
+            "post_id": "p987654321",
+            "post_url": "https://example.com/instagram/p/Bw1234abc",
             "author": {
-                "id": "ig_u823475",
-                "username": "forex_guru",
-                "display_name": "James | Forex Trader 📊",
-                "profile_pic": "https://example.com/profiles/james.jpg",
-                "followers_count": 18923
+                "user_id": "u567",
+                "username": "successful_trader",
+                "display_name": "Mark Williams"
             },
-            "content": "📈 Just wrapped up a session with Deriv's MT5 platform. Loving the low spreads, fast execution, and reliability. Check the results on my next post! 💰 #DerivTrader #MT5 #ForexTrading #DayTrading",
+            "content": "🎯 6 months with Deriv and I'm blown away! Their DBot automation made my trading strategy 10x more efficient. Plus, their 24/7 synthetic markets are perfect for my trading style. Made consistent profits last quarter! 📊✨ #DerivTrading #TradingBot #PassiveIncome",
             "engagement": {
-                "likes": 4385,
-                "comments": 592,
-                "shares": 123,
-                "saves": 412
+                "reactions": 876,
+                "comments_count": 45,
+                "shares_count": 32
             },
-            "timestamp": "2023-11-12T08:45:32Z",
-            "hashtags": [
-                "DerivTrader",
-                "MT5",
-                "ForexTrading",
-                "DayTrading"
-            ],
-            "top_comment": {
-                "comment_id": "igc_4728391",
-                "author": {
-                    "id": "ig_u129384",
-                    "username": "crypto_champ",
-                    "display_name": "Crypto Champion",
-                    "profile_pic": "https://example.com/profiles/crypto_champ.jpg"
+            "comments": [
+                {
+                    "comment_id": "c123001",
+                    "author": {
+                        "user_id": "u890",
+                        "username": "tech_trader",
+                        "display_name": "Tech Trader"
+                    },
+                    "content": "Your DBot strategy looks interesting! Been using their MT5 but might switch to automated trading. How long did it take you to set up? 🤔",
+                    "engagement": {
+                        "reactions": 56,
+                        "replies_count": 4,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-20T14:30:22Z"
                 },
-                "content": "MT5 is a beast! Have you tried Deriv's synthetic indices yet? Great for 24/7 trading! 🔥",
-                "likes": 173,
-                "timestamp": "2023-11-12T09:22:16Z"
-            }
+                {
+                    "comment_id": "c123002",
+                    "author": {
+                        "user_id": "u891",
+                        "username": "trading_newbie",
+                        "display_name": "Emma Trading"
+                    },
+                    "content": "Those results are impressive! Are you offering any courses on DBot strategy building? Would love to learn! 🙌",
+                    "engagement": {
+                        "reactions": 45,
+                        "replies_count": 3,
+                        "shares": 1
+                    },
+                    "created_at": "2023-11-20T14:45:15Z"
+                }
+            ],
+            "created_at": "2023-11-20T13:15:00Z",
+            "location": "London, UK"
         },
         {
-            "post_id": "ig_287463820",
-            "post_url": "https://example.com/instagram/p/287463820",
+            "post_id": "p987654322",
+            "post_url": "https://example.com/instagram/p/Bw5678def",
             "author": {
-                "id": "ig_u876540",
-                "username": "tech_trader_expert",
-                "display_name": "Kyle | Tech Trader 💻",
-                "profile_pic": "https://example.com/profiles/kyle.jpg",
-                "followers_count": 40000
+                "user_id": "u568",
+                "username": "frustrated_investor",
+                "display_name": "James Thompson"
             },
-            "content": "Deriv's DTrader platform is intuitive. Saved me so much time with preset strategies! Swipe ➡️ to check my latest profits. 📊 #DerivDTrader #TradingPlatform #ForexEducation",
+            "content": "⚠️ Warning: Deriv's payment system has been down for 3 days straight! Lost several trading opportunities and support keeps sending automated responses. Considering switching platforms. This is unacceptable for a trading platform! #TradingProblems #DerivIssues",
             "engagement": {
-                "likes": 5901,
-                "comments": 302,
-                "shares": 213,
-                "saves": 821
+                "reactions": 445,
+                "comments_count": 89,
+                "shares_count": 56
             },
-            "timestamp": "2023-11-10T12:34:45Z",
-            "hashtags": [
-                "DerivDTrader",
-                "TradingPlatform",
-                "ForexEducation"
-            ],
-            "top_comment": {
-                "comment_id": "igc_9238457",
-                "author": {
-                    "id": "ig_u348209",
-                    "username": "beginner_investor",
-                    "display_name": "Tina | New Trader",
-                    "profile_pic": "https://example.com/profiles/tina.jpg"
+            "comments": [
+                {
+                    "comment_id": "c123003",
+                    "author": {
+                        "user_id": "u892",
+                        "username": "deriv_help",
+                        "display_name": "Deriv Support"
+                    },
+                    "content": "We sincerely apologize for the inconvenience. Our team is working on resolving this issue. Please DM us your client ID for immediate assistance.",
+                    "engagement": {
+                        "reactions": 23,
+                        "replies_count": 5,
+                        "shares": 0
+                    },
+                    "created_at": "2023-11-20T16:30:22Z"
                 },
-                "content": "Is there a demo account option before committing real funds? I’m a newbie! 😅",
-                "likes": 354,
-                "timestamp": "2023-11-10T13:10:15Z"
-            }
+                {
+                    "comment_id": "c123004",
+                    "author": {
+                        "user_id": "u893",
+                        "username": "trade_master",
+                        "display_name": "Trading Master"
+                    },
+                    "content": "Having the same issue here! This needs to be fixed ASAP. Lost a major trading opportunity today. 😤",
+                    "engagement": {
+                        "reactions": 89,
+                        "replies_count": 7,
+                        "shares": 3
+                    },
+                    "created_at": "2023-11-20T16:45:15Z"
+                }
+            ],
+            "created_at": "2023-11-20T15:30:00Z"
         },
         {
-            "post_id": "ig_348294756",
-            "post_url": "https://example.com/instagram/p/348294756",
+            "post_id": "p987654323",
+            "post_url": "https://example.com/instagram/p/Bw9012ghi",
             "author": {
-                "id": "ig_u543217",
-                "username": "forex_strategy_tips",
-                "display_name": "Forex Strategy Tips 💡",
-                "profile_pic": "https://example.com/profiles/forexstrategy.jpg",
-                "followers_count": 28500
+                "user_id": "u569",
+                "username": "trading_analyst",
+                "display_name": "Sophie Chen"
             },
-            "content": "Here's why I'm sticking with Deriv for all my day trades: precise execution, low latency, and seamless withdrawals. 🏦💰 #ForexStrategies #DerivTrading #DayTrading #FastExecution",
+            "content": "📊 Platform Analysis 2023:\nDeriv: Strong on synthetics, decent UI, average spreads\nPlatform B: Good for stocks, high fees\nPlatform C: Best spreads, limited products\n\nWhat's your preferred platform? Share your experiences below 👇 #TradingPlatforms #Analysis",
             "engagement": {
-                "likes": 3462,
-                "comments": 120,
-                "shares": 156,
-                "saves": 543
+                "reactions": 567,
+                "comments_count": 95,
+                "shares_count": 43
             },
-            "timestamp": "2023-11-11T10:22:45Z",
-            "hashtags": [
-                "ForexStrategies",
-                "DerivTrading",
-                "DayTrading",
-                "FastExecution"
-            ],
-            "top_comment": {
-                "comment_id": "igc_2395876",
-                "author": {
-                    "id": "ig_u875634",
-                    "username": "active_daytrader",
-                    "display_name": "Active Trader",
-                    "profile_pic": "https://example.com/profiles/active_trader.jpg"
+            "comments": [
+                {
+                    "comment_id": "c123005",
+                    "author": {
+                        "user_id": "u894",
+                        "username": "curious_trader",
+                        "display_name": "Ryan Lee"
+                    },
+                    "content": "Been researching Deriv but unsure about their fee structure. Anyone here actively trading with them? Need some real user feedback before making the switch.",
+                    "engagement": {
+                        "reactions": 67,
+                        "replies_count": 8,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-20T18:30:22Z"
                 },
-                "content": "Man, those low spreads are 🔥 I switched to Deriv last month and it's been amazing!",
-                "likes": 89,
-                "timestamp": "2023-11-11T12:00:33Z"
-            }
+                {
+                    "comment_id": "c123006",
+                    "author": {
+                        "user_id": "u895",
+                        "username": "pro_trader",
+                        "display_name": "Alex Pro"
+                    },
+                    "content": "Each platform has its strengths. Using multiple platforms might be the best strategy depending on your trading needs.",
+                    "engagement": {
+                        "reactions": 45,
+                        "replies_count": 4,
+                        "shares": 1
+                    },
+                    "created_at": "2023-11-20T18:45:15Z"
+                },
+                {
+                    "comment_id": "c123007",
+                    "author": {
+                        "user_id": "u896",
+                        "username": "day_trader",
+                        "display_name": "Daily Trader"
+                    },
+                    "content": "Platform C's spreads are good but Deriv's product range is unmatched. Been using both for different strategies.",
+                    "engagement": {
+                        "reactions": 34,
+                        "replies_count": 3,
+                        "shares": 0
+                    },
+                    "created_at": "2023-11-20T19:00:00Z"
+                }
+            ],
+            "created_at": "2023-11-20T17:45:00Z"
         },
         {
-            "post_id": "ig_429038756",
-            "post_url": "https://example.com/instagram/p/429038756",
+            "post_id": "p987654324",
+            "post_url": "https://example.com/instagram/p/Bw3456jkl",
             "author": {
-                "id": "ig_u098753",
-                "username": "finance_hacks_daily",
-                "display_name": "Finance Hacks 🤑",
-                "profile_pic": "https://example.com/profiles/finance_hacks.jpg",
-                "followers_count": 52000
+                "user_id": "u570",
+                "username": "future_trader",
+                "display_name": "Lisa Anderson"
             },
-            "content": "💡 Ever tried automated trading on Deriv’s DBot? Customizing strategies is so easy! Here’s my setup. Drop your thoughts in the comments! 🕹️ #AutomatedTrading #DerivDBot #TradingAutomation",
+            "content": "👋 Just completed my algorithmic trading course! Looking to start with automated trading. I've heard great things about Deriv's DBot and API capabilities. Any tips for a newcomer? #AlgoTrading #NewTrader #CodingTrader",
             "engagement": {
-                "likes": 7645,
-                "comments": 415,
-                "shares": 287,
-                "saves": 948
+                "reactions": 234,
+                "comments_count": 56,
+                "shares_count": 12
             },
-            "timestamp": "2023-11-14T14:56:33Z",
-            "hashtags": [
-                "AutomatedTrading",
-                "DerivDBot",
-                "TradingAutomation"
-            ],
-            "top_comment": {
-                "comment_id": "igc_4982347",
-                "author": {
-                    "id": "ig_u294875",
-                    "username": "bot_creator",
-                    "display_name": "Bot Maker",
-                    "profile_pic": "https://example.com/profiles/bot_maker.jpg"
+            "comments": [
+                {
+                    "comment_id": "c123008",
+                    "author": {
+                        "user_id": "u897",
+                        "username": "algo_expert",
+                        "display_name": "Algo Expert"
+                    },
+                    "content": "Deriv's DBot is perfect for beginners in algo trading. Start with their demo account and basic strategies. DM me if you need help! 👩‍💻",
+                    "engagement": {
+                        "reactions": 78,
+                        "replies_count": 6,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-20T21:30:22Z"
                 },
-                "content": "The strategy customization in DBot is on another level! Have you tried combining multiple indicators yet?",
-                "likes": 234,
-                "timestamp": "2023-11-14T15:30:53Z"
-            }
+                {
+                    "comment_id": "c123009",
+                    "author": {
+                        "user_id": "u898",
+                        "username": "code_trader",
+                        "display_name": "Code Trader"
+                    },
+                    "content": "Their documentation is super helpful. Check out their GitHub repos too. Welcome to the algo trading world! 🚀",
+                    "engagement": {
+                        "reactions": 56,
+                        "replies_count": 4,
+                        "shares": 1
+                    },
+                    "created_at": "2023-11-20T21:45:15Z"
+                }
+            ],
+            "created_at": "2023-11-20T20:00:00Z"
         },
         {
-            "post_id": "ig_984573294",
-            "post_url": "https://example.com/instagram/p/984573294",
+            "post_id": "p987654325",
+            "post_url": "https://example.com/instagram/p/Bw7890mno",
             "author": {
-                "id": "ig_u384758",
-                "username": "binary_trading_expert",
-                "display_name": "Mark | Binary Trader ⚡",
-                "profile_pic": "https://example.com/profiles/mark.jpg",
-                "followers_count": 15500
+                "user_id": "u571",
+                "username": "wanderlust_captures",
+                "display_name": "Travel Chronicles"
             },
-            "content": "💼 Quick guide: How I made 10 successful binary option trades in a row on Deriv’s SmartTrader. Can't recommend it enough for fast-paced trading! #DerivSmartTrader #BinaryOptions #QuickTrades",
+            "content": "🌅 Sunrise at Mount Fuji hits different! Woke up at 3 AM for this shot but totally worth it. Swipe to see the progression of light over the landscape. Shot on Sony A7III, 24-70mm f/2.8\n\nThank you Japan for these magical moments! 🇯🇵 #Japan #MountFuji #TravelPhotography #SonyAlpha",
             "engagement": {
-                "likes": 4278,
-                "comments": 278,
-                "shares": 112,
-                "saves": 643
+                "reactions": 1567,
+                "comments_count": 123,
+                "shares_count": 89
             },
-            "timestamp": "2023-11-12T16:20:22Z",
-            "hashtags": [
-                "DerivSmartTrader",
-                "BinaryOptions",
-                "QuickTrades"
-            ],
-            "top_comment": {
-                "comment_id": "igc_6794831",
-                "author": {
-                    "id": "ig_u098762",
-                    "username": "profitable_trader",
-                    "display_name": "Profit Nate",
-                    "profile_pic": "https://example.com/profiles/profit_nate.jpg"
+            "comments": [
+                {
+                    "comment_id": "c123010",
+                    "author": {
+                        "user_id": "u899",
+                        "username": "photo_enthusiast",
+                        "display_name": "Photography Lover"
+                    },
+                    "content": "These colors are incredible! What post-processing software did you use? The gradient in the sky is perfect! 📸",
+                    "engagement": {
+                        "reactions": 89,
+                        "replies_count": 5,
+                        "shares": 2
+                    },
+                    "created_at": "2023-11-20T23:30:22Z"
                 },
-                "content": "Awesome! I’ve been using SmartTrader for months and it’s been a game changer for binary options.",
-                "likes": 189,
-                "timestamp": "2023-11-12T17:00:43Z"
-            }
+                {
+                    "comment_id": "c123011",
+                    "author": {
+                        "user_id": "u900",
+                        "username": "japan_lover",
+                        "display_name": "Japan Explorer"
+                    },
+                    "content": "Planning to visit next spring! Which viewing point did you shoot this from? The composition is stunning! 🗻",
+                    "engagement": {
+                        "reactions": 67,
+                        "replies_count": 3,
+                        "shares": 1
+                    },
+                    "created_at": "2023-11-20T23:45:15Z"
+                }
+            ],
+            "created_at": "2023-11-20T22:00:00Z",
+            "location": "Mount Fuji, Japan",
+            "hashtags": [
+                "Japan",
+                "MountFuji",
+                "TravelPhotography",
+                "SonyAlpha"
+            ]
         }
-    ],
-    "pagination": {
-        "current_page": 1,
-        "total_pages": 30,
-        "next_page": "https://example.com/instagram/posts?page=2",
-        "prev_page": null
-    }
+    ]
 }
