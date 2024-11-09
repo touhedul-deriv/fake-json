@@ -1,0 +1,193 @@
+{
+    "success": true,
+    "posts": [
+        {
+            "post_id": "ig_983745291",
+            "post_url": "https://example.com/instagram/p/983745291",
+            "author": {
+                "id": "ig_u823475",
+                "username": "forex_guru",
+                "display_name": "James | Forex Trader 📊",
+                "profile_pic": "https://example.com/profiles/james.jpg",
+                "followers_count": 18923
+            },
+            "content": "📈 Just wrapped up a session with Deriv's MT5 platform. Loving the low spreads, fast execution, and reliability. Check the results on my next post! 💰 #DerivTrader #MT5 #ForexTrading #DayTrading",
+            "engagement": {
+                "likes": 4385,
+                "comments": 592,
+                "shares": 123,
+                "saves": 412
+            },
+            "timestamp": "2023-11-12T08:45:32Z",
+            "hashtags": [
+                "DerivTrader",
+                "MT5",
+                "ForexTrading",
+                "DayTrading"
+            ],
+            "top_comment": {
+                "comment_id": "igc_4728391",
+                "author": {
+                    "id": "ig_u129384",
+                    "username": "crypto_champ",
+                    "display_name": "Crypto Champion",
+                    "profile_pic": "https://example.com/profiles/crypto_champ.jpg"
+                },
+                "content": "MT5 is a beast! Have you tried Deriv's synthetic indices yet? Great for 24/7 trading! 🔥",
+                "likes": 173,
+                "timestamp": "2023-11-12T09:22:16Z"
+            }
+        },
+        {
+            "post_id": "ig_287463820",
+            "post_url": "https://example.com/instagram/p/287463820",
+            "author": {
+                "id": "ig_u876540",
+                "username": "tech_trader_expert",
+                "display_name": "Kyle | Tech Trader 💻",
+                "profile_pic": "https://example.com/profiles/kyle.jpg",
+                "followers_count": 40000
+            },
+            "content": "Deriv's DTrader platform is intuitive. Saved me so much time with preset strategies! Swipe ➡️ to check my latest profits. 📊 #DerivDTrader #TradingPlatform #ForexEducation",
+            "engagement": {
+                "likes": 5901,
+                "comments": 302,
+                "shares": 213,
+                "saves": 821
+            },
+            "timestamp": "2023-11-10T12:34:45Z",
+            "hashtags": [
+                "DerivDTrader",
+                "TradingPlatform",
+                "ForexEducation"
+            ],
+            "top_comment": {
+                "comment_id": "igc_9238457",
+                "author": {
+                    "id": "ig_u348209",
+                    "username": "beginner_investor",
+                    "display_name": "Tina | New Trader",
+                    "profile_pic": "https://example.com/profiles/tina.jpg"
+                },
+                "content": "Is there a demo account option before committing real funds? I’m a newbie! 😅",
+                "likes": 354,
+                "timestamp": "2023-11-10T13:10:15Z"
+            }
+        },
+        {
+            "post_id": "ig_348294756",
+            "post_url": "https://example.com/instagram/p/348294756",
+            "author": {
+                "id": "ig_u543217",
+                "username": "forex_strategy_tips",
+                "display_name": "Forex Strategy Tips 💡",
+                "profile_pic": "https://example.com/profiles/forexstrategy.jpg",
+                "followers_count": 28500
+            },
+            "content": "Here's why I'm sticking with Deriv for all my day trades: precise execution, low latency, and seamless withdrawals. 🏦💰 #ForexStrategies #DerivTrading #DayTrading #FastExecution",
+            "engagement": {
+                "likes": 3462,
+                "comments": 120,
+                "shares": 156,
+                "saves": 543
+            },
+            "timestamp": "2023-11-11T10:22:45Z",
+            "hashtags": [
+                "ForexStrategies",
+                "DerivTrading",
+                "DayTrading",
+                "FastExecution"
+            ],
+            "top_comment": {
+                "comment_id": "igc_2395876",
+                "author": {
+                    "id": "ig_u875634",
+                    "username": "active_daytrader",
+                    "display_name": "Active Trader",
+                    "profile_pic": "https://example.com/profiles/active_trader.jpg"
+                },
+                "content": "Man, those low spreads are 🔥 I switched to Deriv last month and it's been amazing!",
+                "likes": 89,
+                "timestamp": "2023-11-11T12:00:33Z"
+            }
+        },
+        {
+            "post_id": "ig_429038756",
+            "post_url": "https://example.com/instagram/p/429038756",
+            "author": {
+                "id": "ig_u098753",
+                "username": "finance_hacks_daily",
+                "display_name": "Finance Hacks 🤑",
+                "profile_pic": "https://example.com/profiles/finance_hacks.jpg",
+                "followers_count": 52000
+            },
+            "content": "💡 Ever tried automated trading on Deriv’s DBot? Customizing strategies is so easy! Here’s my setup. Drop your thoughts in the comments! 🕹️ #AutomatedTrading #DerivDBot #TradingAutomation",
+            "engagement": {
+                "likes": 7645,
+                "comments": 415,
+                "shares": 287,
+                "saves": 948
+            },
+            "timestamp": "2023-11-14T14:56:33Z",
+            "hashtags": [
+                "AutomatedTrading",
+                "DerivDBot",
+                "TradingAutomation"
+            ],
+            "top_comment": {
+                "comment_id": "igc_4982347",
+                "author": {
+                    "id": "ig_u294875",
+                    "username": "bot_creator",
+                    "display_name": "Bot Maker",
+                    "profile_pic": "https://example.com/profiles/bot_maker.jpg"
+                },
+                "content": "The strategy customization in DBot is on another level! Have you tried combining multiple indicators yet?",
+                "likes": 234,
+                "timestamp": "2023-11-14T15:30:53Z"
+            }
+        },
+        {
+            "post_id": "ig_984573294",
+            "post_url": "https://example.com/instagram/p/984573294",
+            "author": {
+                "id": "ig_u384758",
+                "username": "binary_trading_expert",
+                "display_name": "Mark | Binary Trader ⚡",
+                "profile_pic": "https://example.com/profiles/mark.jpg",
+                "followers_count": 15500
+            },
+            "content": "💼 Quick guide: How I made 10 successful binary option trades in a row on Deriv’s SmartTrader. Can't recommend it enough for fast-paced trading! #DerivSmartTrader #BinaryOptions #QuickTrades",
+            "engagement": {
+                "likes": 4278,
+                "comments": 278,
+                "shares": 112,
+                "saves": 643
+            },
+            "timestamp": "2023-11-12T16:20:22Z",
+            "hashtags": [
+                "DerivSmartTrader",
+                "BinaryOptions",
+                "QuickTrades"
+            ],
+            "top_comment": {
+                "comment_id": "igc_6794831",
+                "author": {
+                    "id": "ig_u098762",
+                    "username": "profitable_trader",
+                    "display_name": "Profit Nate",
+                    "profile_pic": "https://example.com/profiles/profit_nate.jpg"
+                },
+                "content": "Awesome! I’ve been using SmartTrader for months and it’s been a game changer for binary options.",
+                "likes": 189,
+                "timestamp": "2023-11-12T17:00:43Z"
+            }
+        }
+    ],
+    "pagination": {
+        "current_page": 1,
+        "total_pages": 30,
+        "next_page": "https://example.com/instagram/posts?page=2",
+        "prev_page": null
+    }
+}

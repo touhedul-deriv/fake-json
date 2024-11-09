@@ -1,0 +1,191 @@
+{
+    "success": true,
+    "posts": [
+        {
+            "post_id": "lnk_384792135",
+            "post_url": "https://example.com/linkedin/post/384792135",
+            "author": {
+                "id": "lnk_u128374",
+                "username": "lucas.financial",
+                "display_name": "Lucas Matthews | Financial Analyst",
+                "profile_pic": "https://example.com/profiles/lucas.jpg",
+                "followers_count": 28730
+            },
+            "content": "Recently switched to Deriv’s MT5 platform, and I have to say, the trade execution speed is fantastic — much smoother compared to other platforms I’ve used. The low spreads are a trader’s dream! 💻 If you're in the forex or CFD space, give it a try. #DerivMT5 #ForexTrading #CFDTrader #FastExecution",
+            "engagement": {
+                "likes": 653,
+                "comments": 45,
+                "shares": 12
+            },
+            "timestamp": "2023-11-13T14:25:45Z",
+            "hashtags": [
+                "DerivMT5",
+                "ForexTrading",
+                "CFDTrader",
+                "FastExecution"
+            ],
+            "top_comment": {
+                "comment_id": "lnkc_2938456",
+                "author": {
+                    "id": "lnk_u294839",
+                    "username": "susan_broker",
+                    "display_name": "Susan Broker | Investment Advisor",
+                    "profile_pic": "https://example.com/profiles/susan.jpg"
+                },
+                "content": "Couldn't agree more! Deriv’s MT5 platform has saved me so much time with its quick processing.",
+                "likes": 45,
+                "timestamp": "2023-11-13T15:10:12Z"
+            }
+        },
+        {
+            "post_id": "lnk_483759203",
+            "post_url": "https://example.com/linkedin/post/483759203",
+            "author": {
+                "id": "lnk_u482902",
+                "username": "karen.trader",
+                "display_name": "Karen White | Currency Trader",
+                "profile_pic": "https://example.com/profiles/karen.jpg",
+                "followers_count": 31257
+            },
+            "content": "Why I prefer Deriv’s Synthetic Indices: easy to trade even on weekends! No more waiting for the markets to open — a unique way to diversify my portfolio. 💼 #DerivSynthetics #WeekendTrading #Diversification #ForexTrader",
+            "engagement": {
+                "likes": 742,
+                "comments": 62,
+                "shares": 34
+            },
+            "timestamp": "2023-11-14T09:32:10Z",
+            "hashtags": [
+                "DerivSynthetics",
+                "WeekendTrading",
+                "Diversification",
+                "ForexTrader"
+            ],
+            "top_comment": {
+                "comment_id": "lnkc_7593846",
+                "author": {
+                    "id": "lnk_u582394",
+                    "username": "daytrader_john",
+                    "display_name": "John Fox | Day Trader",
+                    "profile_pic": "https://example.com/profiles/john.jpg"
+                },
+                "content": "The 24/7 availability of Synthetic Indices on Deriv is a game-changer. I’ve been using it to follow my custom strategies.",
+                "likes": 89,
+                "timestamp": "2023-11-14T10:15:45Z"
+            }
+        },
+        {
+            "post_id": "lnk_574829104",
+            "post_url": "https://example.com/linkedin/post/574829104",
+            "author": {
+                "id": "lnk_u948237",
+                "username": "michael_invest",
+                "display_name": "Michael Invest | Financial Coach",
+                "profile_pic": "https://example.com/profiles/michael.jpg",
+                "followers_count": 42178
+            },
+            "content": "🚀 Deriv’s DTrader platform has been my go-to for intuitive trading. If you're looking for a clean interface, fast execution, and chart-ready data, this platform won't disappoint! Highly recommend for beginners and pros alike. #TradingPlatform #DerivDTrader #FinanceTips #FinancialFreedom",
+            "engagement": {
+                "likes": 1243,
+                "comments": 91,
+                "shares": 54
+            },
+            "timestamp": "2023-11-13T11:00:23Z",
+            "hashtags": [
+                "TradingPlatform",
+                "DerivDTrader",
+                "FinanceTips",
+                "FinancialFreedom"
+            ],
+            "top_comment": {
+                "comment_id": "lnkc_2975829",
+                "author": {
+                    "id": "lnk_u482020",
+                    "username": "forex_master",
+                    "display_name": "Andrew Smith | Forex Master",
+                    "profile_pic": "https://example.com/profiles/andrew.jpg"
+                },
+                "content": "Totally agree—DTrader has been a delight for my trading setup. The mobile app for it is also great.",
+                "likes": 97,
+                "timestamp": "2023-11-13T12:01:54Z"
+            }
+        },
+        {
+            "post_id": "lnk_872349205",
+            "post_url": "https://example.com/linkedin/post/872349205",
+            "author": {
+                "id": "lnk_u293857",
+                "username": "finance_research",
+                "display_name": "Patrick Reed | Finance Researcher",
+                "profile_pic": "https://example.com/profiles/patrick.jpg",
+                "followers_count": 30210
+            },
+            "content": "Been using Deriv’s API for automation projects and so far, the documentation is easy to understand, and the WebSocket API has been extremely reliable. Great for algorithmic traders. 📊 #TradingAPI #DerivAPI #AlgorithmicTrading #Fintech",
+            "engagement": {
+                "likes": 583,
+                "comments": 41,
+                "shares": 22
+            },
+            "timestamp": "2023-11-14T13:45:12Z",
+            "hashtags": [
+                "TradingAPI",
+                "DerivAPI",
+                "AlgorithmicTrading",
+                "Fintech"
+            ],
+            "top_comment": {
+                "comment_id": "lnkc_1947582",
+                "author": {
+                    "id": "lnk_u739258",
+                    "username": "tech_innovator",
+                    "display_name": "Matt Johnson | Tech Entrepreneur",
+                    "profile_pic": "https://example.com/profiles/matt.jpg"
+                },
+                "content": "I’ve built a couple of bots using the Deriv API. It's efficient and stable for high-frequency trading bots.",
+                "likes": 56,
+                "timestamp": "2023-11-14T14:25:34Z"
+            }
+        },
+        {
+            "post_id": "lnk_983647192",
+            "post_url": "https://example.com/linkedin/post/983647192",
+            "author": {
+                "id": "lnk_u230495",
+                "username": "finance_diva",
+                "display_name": "Claire Gold | Investment Manager",
+                "profile_pic": "https://example.com/profiles/claire.jpg",
+                "followers_count": 48950
+            },
+            "content": "Here’s why I’ve been sticking with Deriv for all my binary options trades: simple execution, intuitive platform, and fast withdrawals. Highly recommend SmartTrader for anyone looking for fast options trading. 📈 #BinaryOptions #DerivSmartTrader #OptionsTrading #EasyWithdrawals",
+            "engagement": {
+                "likes": 948,
+                "comments": 77,
+                "shares": 28
+            },
+            "timestamp": "2023-11-12T16:45:23Z",
+            "hashtags": [
+                "BinaryOptions",
+                "DerivSmartTrader",
+                "OptionsTrading",
+                "EasyWithdrawals"
+            ],
+            "top_comment": {
+                "comment_id": "lnkc_2093874",
+                "author": {
+                    "id": "lnk_u989756",
+                    "username": "options_expert",
+                    "display_name": "Michelle | Options Expert",
+                    "profile_pic": "https://example.com/profiles/michelle.jpg"
+                },
+                "content": "Fast withdrawals are such a highlight! Glad to see someone else appreciating SmartTrader.",
+                "likes": 112,
+                "timestamp": "2023-11-12T17:20:11Z"
+            }
+        }
+    ],
+    "pagination": {
+        "current_page": 1,
+        "total_pages": 20,
+        "next_page": "https://example.com/linkedin/posts?page=2",
+        "prev_page": null
+    }
+}
