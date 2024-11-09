@@ -8,22 +8,9 @@
                 "author": {
                     "user_id": "u789",
                     "username": "forex_trader_pro",
-                    "display_name": "Michael Forex",
-                    "profile_picture": "https://example.com/profiles/michaelforex.jpg"
+                    "display_name": "Michael Forex"
                 },
                 "content": "Just completed my first month trading on Deriv MT5! The execution speed is incredible, and the spreads are really competitive. Love how seamless the deposit process is. 📈 #DerivTrading #MT5 #ForexTrading #DerivSynthetics",
-                "media": [
-                    {
-                        "type": "image",
-                        "url": "https://example.com/posts/tradingscreen1.jpg",
-                        "alt_text": "MT5 trading platform screenshot showing successful trades"
-                    },
-                    {
-                        "type": "image",
-                        "url": "https://example.com/posts/profitchart.jpg",
-                        "alt_text": "Monthly profit chart"
-                    }
-                ],
                 "likes_count": 342,
                 "comments_count": 23,
                 "shares_count": 12,
@@ -32,8 +19,7 @@
                     "author": {
                         "user_id": "u555",
                         "username": "trading_mentor",
-                        "display_name": "Sarah Trading",
-                        "profile_picture": "https://example.com/profiles/sarah.jpg"
+                        "display_name": "Sarah Trading"
                     },
                     "content": "Great results! Deriv's MT5 is indeed one of the best. Have you tried their Deriv X platform as well? The UI is even better for quick trades! 🚀",
                     "likes_count": 45,
@@ -49,11 +35,9 @@
                 "author": {
                     "user_id": "u456",
                     "username": "crypto_enthusiast",
-                    "display_name": "Alex Crypto",
-                    "profile_picture": "https://example.com/profiles/alexcrypto.jpg"
+                    "display_name": "Alex Crypto"
                 },
                 "content": "Not happy with the verification process on Deriv today. Been waiting for 48 hours now. Support team needs to be more responsive. Hope this gets resolved soon. #Deriv #CustomerService #TradingPlatform",
-                "media": [],
                 "likes_count": 156,
                 "comments_count": 45,
                 "shares_count": 28,
@@ -62,8 +46,7 @@
                     "author": {
                         "user_id": "u999",
                         "username": "deriv_support",
-                        "display_name": "Deriv Support",
-                        "profile_picture": "https://example.com/profiles/derivsupport.jpg"
+                        "display_name": "Deriv Support"
                     },
                     "content": "Hi Alex, we apologize for the delay. Could you please DM us your client ID? We'll look into this immediately and expedite your verification process.",
                     "likes_count": 67,
@@ -78,18 +61,9 @@
                 "author": {
                     "user_id": "u123",
                     "username": "options_master",
-                    "display_name": "Trading Expert",
-                    "profile_picture": "https://example.com/profiles/optionsmaster.jpg"
+                    "display_name": "Trading Expert"
                 },
                 "content": "Just tried Deriv's new SmartTrader platform for binary options - absolutely amazing! The chart analysis tools and quick stake options are game-changers. Made 15 successful trades today! Check out my tutorial video below 👇 #DerivOptions #BinaryOptions #SmartTrader #DerivTrading",
-                "media": [
-                    {
-                        "type": "video",
-                        "url": "https://example.com/videos/deriv-tutorial.mp4",
-                        "thumbnail": "https://example.com/thumbnails/deriv-tutorial.jpg",
-                        "duration": "08:45"
-                    }
-                ],
                 "likes_count": 892,
                 "comments_count": 167,
                 "shares_count": 234,
@@ -98,8 +72,7 @@
                     "author": {
                         "user_id": "u777",
                         "username": "binary_trader",
-                        "display_name": "Binary Pro Trader",
-                        "profile_picture": "https://example.com/profiles/binarytrader.jpg"
+                        "display_name": "Binary Pro Trader"
                     },
                     "content": "Great video! The multiplier options on Deriv are also worth checking out. Lower risk and better control over your trades. Would love to see your strategy on those! 📊",
                     "likes_count": 234,
@@ -121,7 +94,6 @@
                     "id": "u345123",
                     "username": "crypto_newbie",
                     "display_name": "Alex Turner",
-                    "profile_pic": "https://example.com/profiles/alex.jpg",
                     "followers_count": 892
                 },
                 "content": "Fed up with MetaTrader on my current broker. Anyone know a reliable platform for forex and crypto trading? Looking for something with good customer support and quick withdrawals. #TradingPlatform #ForexTrading",
@@ -140,8 +112,7 @@
                     "author": {
                         "id": "u567123",
                         "username": "trade_master",
-                        "display_name": "Trade Master",
-                        "profile_pic": "https://example.com/profiles/trademaster.jpg"
+                        "display_name": "Trade Master"
                     },
                     "content": "Try @DerivDotCom. They offer MT5 plus their own platforms. Been using them for 2 years, withdrawals are usually processed within 24 hours.",
                     "likes": 28,
@@ -155,7 +126,6 @@
                     "id": "u789456",
                     "username": "options_trader_pro",
                     "display_name": "Options Trader Pro",
-                    "profile_pic": "https://example.com/profiles/optionstrader.jpg",
                     "followers_count": 3421
                 },
                 "content": "Comparison of CFD platforms:\nBroker A: High fees, good interface\nBroker B: Average all around\nDeriv: Better spreads, multiple platforms (MT5, DTrader, DBot), but mobile app needs work\nBroker D: Good for beginners but limited features\n\nWhat's your experience? #TradingPlatforms #CFDTrading",
@@ -174,8 +144,7 @@
                     "author": {
                         "id": "u123789",
                         "username": "daily_trader",
-                        "display_name": "Daily Trader",
-                        "profile_pic": "https://example.com/profiles/dailytrader.jpg"
+                        "display_name": "Daily Trader"
                     },
                     "content": "Been using Deriv for 6 months. The spreads are indeed competitive. Their synthetic indices are unique, but agree about the mobile app - needs better charting tools.",
                     "likes": 56,
@@ -189,7 +158,6 @@
                     "id": "u234890",
                     "username": "maria.invest",
                     "display_name": "Maria Rodriguez",
-                    "profile_pic": "https://example.com/profiles/maria.jpg",
                     "followers_count": 5632
                 },
                 "content": "🎓 Just finished my finance degree! Looking to start my trading journey. Been researching platforms that offer good educational resources and demo accounts. Any recommendations from experienced traders? #NewTrader #FinanceGrad #CareerStart",
@@ -209,8 +177,7 @@
                     "author": {
                         "id": "u678912",
                         "username": "elite_trader",
-                        "display_name": "Elite Trader",
-                        "profile_pic": "https://example.com/profiles/elitetrader.jpg"
+                        "display_name": "Elite Trader"
                     },
                     "content": "Check out Deriv.com - they have comprehensive tutorials, free demo accounts, and you can start with small deposits. Their DTrader platform is perfect for beginners.",
                     "likes": 145,
@@ -224,7 +191,6 @@
                     "id": "u456123",
                     "username": "tech_reviewer",
                     "display_name": "Tech Review Pro",
-                    "profile_pic": "https://example.com/profiles/techreview.jpg",
                     "followers_count": 12453
                 },
                 "content": "API integration capabilities of popular trading platforms:\n✅ Deriv: Solid API docs, good for bot development\n✅ Broker X: Limited API access\n✅ Broker Y: No API for retail traders\n\nDevelopers, which platform's API do you prefer? #TradingAPI #FinTech",
@@ -243,8 +209,7 @@
                     "author": {
                         "id": "u891234",
                         "username": "bot_developer",
-                        "display_name": "Bot Developer",
-                        "profile_pic": "https://example.com/profiles/botdev.jpg"
+                        "display_name": "Bot Developer"
                     },
                     "content": "Deriv's API is well-documented and their support team is responsive. Built several trading bots using their system. The websocket API is particularly reliable.",
                     "likes": 92,
