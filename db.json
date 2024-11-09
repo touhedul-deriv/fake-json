@@ -1,126 +1,430 @@
 {
     "facebook": {
-        "success": true,
-        "total_posts": 3,
-        "posts": [
-          {
-            "post_id": "p123456789",
-            "post_url": "https://socialmedia.com/post/p123456789",
-            "author": {
-              "user_id": "u789",
-              "username": "john_doe",
-              "display_name": "John Doe",
-              "profile_picture": "https://example.com/profiles/johndoe.jpg"
-            },
-            "content": "Just had an amazing weekend hiking in the mountains! 🏔️ #nature #adventure",
-            "media": [
-              {
-                "type": "image",
-                "url": "https://example.com/posts/hiking1.jpg",
-                "alt_text": "Mountain view from the summit"
-              },
-              {
-                "type": "image",
-                "url": "https://example.com/posts/hiking2.jpg",
-                "alt_text": "Group photo at campsite"
-              }
-            ],
-            "likes_count": 342,
-            "comments_count": 23,
-            "shares_count": 12,
-            "top_comment": {
-              "comment_id": "c456789",
-              "author": {
-                "user_id": "u555",
-                "username": "adventure_lover",
-                "display_name": "Sarah Adventure",
-                "profile_picture": "https://example.com/profiles/sarah.jpg"
-              },
-              "content": "This looks incredible! Which trail did you take? I've been wanting to do this hike! 😍",
-              "likes_count": 45,
-              "replies_count": 8,
-              "created_at": "2023-07-15T15:30:22Z"
-            },
-            "created_at": "2023-07-15T14:23:45Z",
-            "location": "Rocky Mountains"
+      "success": true,
+      "posts": [
+        {
+          "post_id": "p123456789",
+          "post_url": "https://example.com/facebook/post/p123456789",
+          "author": {
+            "user_id": "u789",
+            "username": "forex_trader_pro",
+            "display_name": "Michael Forex",
+            "profile_picture": "https://example.com/profiles/michaelforex.jpg"
           },
-          {
-            "post_id": "p987654321",
-            "post_url": "https://socialmedia.com/post/p987654321",
+          "content": "Just completed my first month trading on Deriv MT5! The execution speed is incredible, and the spreads are really competitive. Love how seamless the deposit process is. 📈 #DerivTrading #MT5 #ForexTrading #DerivSynthetics",
+          "media": [
+            {
+              "type": "image",
+              "url": "https://example.com/posts/tradingscreen1.jpg",
+              "alt_text": "MT5 trading platform screenshot showing successful trades"
+            },
+            {
+              "type": "image",
+              "url": "https://example.com/posts/profitchart.jpg",
+              "alt_text": "Monthly profit chart"
+            }
+          ],
+          "likes_count": 342,
+          "comments_count": 23,
+          "shares_count": 12,
+          "top_comment": {
+            "comment_id": "c456789",
             "author": {
-              "user_id": "u456",
-              "username": "jane_smith",
-              "display_name": "Jane Smith",
-              "profile_picture": "https://example.com/profiles/janesmith.jpg"
+              "user_id": "u555",
+              "username": "trading_mentor",
+              "display_name": "Sarah Trading",
+              "profile_picture": "https://example.com/profiles/sarah.jpg"
             },
-            "content": "Just launched my new website! Check it out 🚀 https://example.com",
-            "media": [],
-            "likes_count": 156,
-            "comments_count": 45,
-            "shares_count": 28,
-            "top_comment": {
-              "comment_id": "c123456",
-              "author": {
-                "user_id": "u999",
-                "username": "webdev_pro",
-                "display_name": "Web Developer Pro",
-                "profile_picture": "https://example.com/profiles/webdev.jpg"
-              },
-              "content": "The design is absolutely stunning! Love the minimalist approach and the color scheme. Great job! 👏",
-              "likes_count": 67,
-              "replies_count": 3,
-              "created_at": "2023-07-15T10:45:12Z"
-            },
-            "created_at": "2023-07-15T10:15:30Z"
+            "content": "Great results! Deriv's MT5 is indeed one of the best. Have you tried their Deriv X platform as well? The UI is even better for quick trades! 🚀",
+            "likes_count": 45,
+            "replies_count": 8,
+            "created_at": "2023-07-15T15:30:22Z"
           },
-          {
-            "post_id": "p456789123",
-            "post_url": "https://socialmedia.com/post/p456789123",
+          "created_at": "2023-07-15T14:23:45Z",
+          "location": "Singapore"
+        },
+        {
+          "post_id": "p987654321",
+          "post_url": "https://example.com/facebook/post/p987654321",
+          "author": {
+            "user_id": "u456",
+            "username": "crypto_enthusiast",
+            "display_name": "Alex Crypto",
+            "profile_picture": "https://example.com/profiles/alexcrypto.jpg"
+          },
+          "content": "Not happy with the verification process on Deriv today. Been waiting for 48 hours now. Support team needs to be more responsive. Hope this gets resolved soon. #Deriv #CustomerService #TradingPlatform",
+          "media": [],
+          "likes_count": 156,
+          "comments_count": 45,
+          "shares_count": 28,
+          "top_comment": {
+            "comment_id": "c123456",
             "author": {
-              "user_id": "u123",
-              "username": "tech_guru",
-              "display_name": "Tech Guru",
-              "profile_picture": "https://example.com/profiles/techguru.jpg"
+              "user_id": "u999",
+              "username": "deriv_support",
+              "display_name": "Deriv Support",
+              "profile_picture": "https://example.com/profiles/derivsupport.jpg"
             },
-            "content": "Check out my latest video on AI developments!",
-            "media": [
-              {
-                "type": "video",
-                "url": "https://example.com/videos/ai-update.mp4",
-                "thumbnail": "https://example.com/thumbnails/ai-update.jpg",
-                "duration": "08:45"
-              }
-            ],
-            "likes_count": 892,
-            "comments_count": 167,
-            "shares_count": 234,
-            "top_comment": {
-              "comment_id": "c789123",
-              "author": {
-                "user_id": "u777",
-                "username": "ai_researcher",
-                "display_name": "AI Researcher",
-                "profile_picture": "https://example.com/profiles/airesearcher.jpg"
-              },
-              "content": "Excellent breakdown of the latest GPT developments! One thing to add is that recent research shows even more promising results in few-shot learning. Would love to see a follow-up video on that specific topic! 🤖",
-              "likes_count": 234,
-              "replies_count": 15,
-              "created_at": "2023-07-14T19:15:33Z"
+            "content": "Hi Alex, we apologize for the delay. Could you please DM us your client ID? We'll look into this immediately and expedite your verification process.",
+            "likes_count": 67,
+            "replies_count": 3,
+            "created_at": "2023-07-15T10:45:12Z"
+          },
+          "created_at": "2023-07-15T10:15:30Z"
+        },
+        {
+          "post_id": "p456789123",
+          "post_url": "https://example.com/facebook/post/p456789123",
+          "author": {
+            "user_id": "u123",
+            "username": "options_master",
+            "display_name": "Trading Expert",
+            "profile_picture": "https://example.com/profiles/optionsmaster.jpg"
+          },
+          "content": "Just tried Deriv's new SmartTrader platform for binary options - absolutely amazing! The chart analysis tools and quick stake options are game-changers. Made 15 successful trades today! Check out my tutorial video below 👇 #DerivOptions #BinaryOptions #SmartTrader #DerivTrading",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://example.com/videos/deriv-tutorial.mp4",
+              "thumbnail": "https://example.com/thumbnails/deriv-tutorial.jpg",
+              "duration": "08:45"
+            }
+          ],
+          "likes_count": 892,
+          "comments_count": 167,
+          "shares_count": 234,
+          "top_comment": {
+            "comment_id": "c789123",
+            "author": {
+              "user_id": "u777",
+              "username": "binary_trader",
+              "display_name": "Binary Pro Trader",
+              "profile_picture": "https://example.com/profiles/binarytrader.jpg"
             },
-            "created_at": "2023-07-14T18:30:00Z",
-            "tags": ["tech", "AI", "future"]
+            "content": "Great video! The multiplier options on Deriv are also worth checking out. Lower risk and better control over your trades. Would love to see your strategy on those! 📊",
+            "likes_count": 234,
+            "replies_count": 15,
+            "created_at": "2023-07-14T19:15:33Z"
+          },
+          "created_at": "2023-07-14T18:30:00Z",
+          "tags": [
+            "DerivTrading",
+            "BinaryOptions",
+            "SmartTrader",
+            "TradingTutorial"
+          ]
+        },
+        {
+          "post_id": "p567123890",
+          "post_url": "https://example.com/facebook/post/p567123890",
+          "author": {
+            "id": "u345123",
+            "username": "crypto_newbie",
+            "display_name": "Alex Turner",
+            "profile_pic": "https://example.com/profiles/alex.jpg",
+            "followers_count": 892
+          },
+          "content": "Fed up with MetaTrader on my current broker. Anyone know a reliable platform for forex and crypto trading? Looking for something with good customer support and quick withdrawals. #TradingPlatform #ForexTrading",
+          "engagement": {
+            "likes": 67,
+            "comments": 31,
+            "shares": 5
+          },
+          "timestamp": "2023-11-15T14:22:10Z",
+          "hashtags": [
+            "TradingPlatform",
+            "ForexTrading"
+          ],
+          "top_comment": {
+            "comment_id": "c789012",
+            "author": {
+              "id": "u567123",
+              "username": "trade_master",
+              "display_name": "Trade Master",
+              "profile_pic": "https://example.com/profiles/trademaster.jpg"
+            },
+            "content": "Try @DerivDotCom. They offer MT5 plus their own platforms. Been using them for 2 years, withdrawals are usually processed within 24 hours.",
+            "likes": 28,
+            "timestamp": "2023-11-15T14:45:33Z"
           }
-        ],
-        "pagination": {
-          "current_page": 1,
-          "total_pages": 45,
-          "next_page": "https://api.example.com/posts?page=2"
+        },
+        {
+          "post_id": "p678912345",
+          "post_url": "https://example.com/facebook/post/p678912345",
+          "author": {
+            "id": "u789456",
+            "username": "options_trader_pro",
+            "display_name": "Options Trader Pro",
+            "profile_pic": "https://example.com/profiles/optionstrader.jpg",
+            "followers_count": 3421
+          },
+          "content": "Comparison of CFD platforms:\nBroker A: High fees, good interface\nBroker B: Average all around\nDeriv: Better spreads, multiple platforms (MT5, DTrader, DBot), but mobile app needs work\nBroker D: Good for beginners but limited features\n\nWhat's your experience? #TradingPlatforms #CFDTrading",
+          "engagement": {
+            "likes": 234,
+            "comments": 89,
+            "shares": 45
+          },
+          "timestamp": "2023-11-14T18:15:22Z",
+          "hashtags": [
+            "TradingPlatforms",
+            "CFDTrading"
+          ],
+          "top_comment": {
+            "comment_id": "c901234",
+            "author": {
+              "id": "u123789",
+              "username": "daily_trader",
+              "display_name": "Daily Trader",
+              "profile_pic": "https://example.com/profiles/dailytrader.jpg"
+            },
+            "content": "Been using Deriv for 6 months. The spreads are indeed competitive. Their synthetic indices are unique, but agree about the mobile app - needs better charting tools.",
+            "likes": 56,
+            "timestamp": "2023-11-14T19:02:15Z"
+          }
+        },
+        {
+          "post_id": "p789123456",
+          "post_url": "https://example.com/facebook/post/p789123456",
+          "author": {
+            "id": "u234890",
+            "username": "maria.invest",
+            "display_name": "Maria Rodriguez",
+            "profile_pic": "https://example.com/profiles/maria.jpg",
+            "followers_count": 5632
+          },
+          "content": "🎓 Just finished my finance degree! Looking to start my trading journey. Been researching platforms that offer good educational resources and demo accounts. Any recommendations from experienced traders? #NewTrader #FinanceGrad #CareerStart",
+          "engagement": {
+            "likes": 892,
+            "comments": 156,
+            "shares": 23
+          },
+          "timestamp": "2023-11-13T08:45:12Z",
+          "hashtags": [
+            "NewTrader",
+            "FinanceGrad",
+            "CareerStart"
+          ],
+          "top_comment": {
+            "comment_id": "c456789",
+            "author": {
+              "id": "u678912",
+              "username": "elite_trader",
+              "display_name": "Elite Trader",
+              "profile_pic": "https://example.com/profiles/elitetrader.jpg"
+            },
+            "content": "Check out Deriv.com - they have comprehensive tutorials, free demo accounts, and you can start with small deposits. Their DTrader platform is perfect for beginners.",
+            "likes": 145,
+            "timestamp": "2023-11-13T09:12:34Z"
+          }
+        },
+        {
+          "post_id": "p891234567",
+          "post_url": "https://example.com/facebook/post/p891234567",
+          "author": {
+            "id": "u456123",
+            "username": "tech_reviewer",
+            "display_name": "Tech Review Pro",
+            "profile_pic": "https://example.com/profiles/techreview.jpg",
+            "followers_count": 12453
+          },
+          "content": "API integration capabilities of popular trading platforms:\n✅ Deriv: Solid API docs, good for bot development\n✅ Broker X: Limited API access\n✅ Broker Y: No API for retail traders\n\nDevelopers, which platform's API do you prefer? #TradingAPI #FinTech",
+          "engagement": {
+            "likes": 567,
+            "comments": 89,
+            "shares": 78
+          },
+          "timestamp": "2023-11-12T16:33:21Z",
+          "hashtags": [
+            "TradingAPI",
+            "FinTech"
+          ],
+          "top_comment": {
+            "comment_id": "c567890",
+            "author": {
+              "id": "u891234",
+              "username": "bot_developer",
+              "display_name": "Bot Developer",
+              "profile_pic": "https://example.com/profiles/botdev.jpg"
+            },
+            "content": "Deriv's API is well-documented and their support team is responsive. Built several trading bots using their system. The websocket API is particularly reliable.",
+            "likes": 92,
+            "timestamp": "2023-11-12T17:15:44Z"
+          }
         }
-      },
-
-    "instagram": {},
-
-    "twitter": {},
-
-    "linkedin": {}
-}
+      ],
+      "pagination": {
+        "current_page": 1,
+        "total_pages": 45,
+        "next_page": "https://example.com/facebook/posts?page=2"
+      }
+    },
+    "instagram": {
+      "success": true,
+      "posts": [
+        {
+          "post_id": "ig_123456789",
+          "post_url": "https://example.com/instagram/p/123456789",
+          "author": {
+            "id": "ig_u123456",
+            "username": "millennial.investor",
+            "display_name": "Sarah | Trading & Finance 📈",
+            "profile_pic": "https://example.com/profiles/sarah.jpg",
+            "followers_count": 24500
+          },
+          "content": "🚀 Swipe to see my 6-month trading journey!\n\nFrom complete beginner to consistent profits using @deriv's DTrader platform. Love how beginner-friendly it is!\n\nSlide 1: My first trade (crying emoji)\nSlide 2: Learning the basics\nSlide 3: First profitable month 🎯\nSlide 4: Current setup\n\n#TradingJourney #FinancialFreedom #DerivTrader #TradingLifestyle #ForexTrading",
+          "media": {
+            "type": "carousel",
+            "items": [
+              "https://example.com/images/trading_journey1.jpg",
+              "https://example.com/images/trading_journey2.jpg",
+              "https://example.com/images/trading_journey3.jpg",
+              "https://example.com/images/trading_journey4.jpg"
+            ]
+          },
+          "engagement": {
+            "likes": 3452,
+            "comments": 178,
+            "shares": 89,
+            "saves": 234
+          },
+          "timestamp": "2023-11-15T09:30:00Z",
+          "hashtags": ["TradingJourney", "FinancialFreedom", "DerivTrader", "TradingLifestyle", "ForexTrading"],
+          "top_comment": {
+            "comment_id": "igc_987654",
+            "author": {
+              "id": "ig_u789012",
+              "username": "crypto_queen",
+              "display_name": "Jessica | Crypto Trader",
+              "profile_pic": "https://example.com/profiles/jessica.jpg"
+            },
+            "content": "The DTrader interface looks so clean! Do they have crypto trading too? 🤔",
+            "likes": 145,
+            "timestamp": "2023-11-15T10:15:23Z"
+          }
+        },
+        {
+          "post_id": "ig_234567890",
+          "post_url": "https://example.com/instagram/p/234567890",
+          "author": {
+            "id": "ig_u234567",
+            "username": "trading.tech.tips",
+            "display_name": "Mike | Trading Tech Reviews 💻",
+            "profile_pic": "https://example.com/profiles/mike.jpg",
+            "followers_count": 56800
+          },
+          "content": "🔥 HONEST REVIEW: Trading Platform Comparison\n\nSpent 3 months testing different platforms, here's my setup with @deriv:\n\n✅ Clean interface\n✅ Multiple chart layouts\n✅ Fast execution\n✅ Great mobile app\n\nCheck my stories for full platform walkthrough!\n\n#TradingPlatform #DerivTrading #TradingSetup #TraderLife",
+          "media": {
+            "type": "image",
+            "items": ["https://example.com/images/trading_setup.jpg"]
+          },
+          "engagement": {
+            "likes": 4567,
+            "comments": 232,
+            "shares": 156,
+            "saves": 789
+          },
+          "timestamp": "2023-11-14T15:45:00Z",
+          "hashtags": ["TradingPlatform", "DerivTrading", "TradingSetup", "TraderLife"],
+          "top_comment": {
+            "comment_id": "igc_876543",
+            "author": {
+              "id": "ig_u345678",
+              "username": "daytrader.pro",
+              "display_name": "Alex | Day Trader",
+              "profile_pic": "https://example.com/profiles/alex.jpg"
+            },
+            "content": "Been using MT5 on other platforms, how does Deriv's MT5 compare? Great setup btw! 🔥",
+            "likes": 89,
+            "timestamp": "2023-11-14T16:20:15Z"
+          }
+        },
+        {
+          "post_id": "ig_345678901",
+          "post_url": "https://example.com/instagram/p/345678901",
+          "author": {
+            "id": "ig_u345678",
+            "username": "forex.lifestyle",
+            "display_name": "Tom | Forex & CFD Trading 📊",
+            "profile_pic": "https://example.com/profiles/tom.jpg",
+            "followers_count": 32100
+          },
+          "content": "📱 Quick tutorial: Setting up your first trade on DTrader\n\nWatch till the end to see how I place trades on synthetic indices! Super easy process that took me from complete beginner to where I am now 📈\n\nDM for more tips!\n\n#DerivTrading #TradingTutorial #ForexEducation #TradingTips",
+          "media": {
+            "type": "video",
+            "items": ["https://example.com/videos/trading_tutorial.mp4"],
+            "thumbnail": "https://example.com/images/tutorial_thumbnail.jpg",
+            "duration": 58
+          },
+          "engagement": {
+            "likes": 2890,
+            "comments": 145,
+            "shares": 234,
+            "saves": 567,
+            "views": 15670
+          },
+          "timestamp": "2023-11-13T12:15:00Z",
+          "hashtags": ["DerivTrading", "TradingTutorial", "ForexEducation", "TradingTips"],
+          "top_comment": {
+            "comment_id": "igc_765432",
+            "author": {
+              "id": "ig_u456789",
+              "username": "new_trader_2023",
+              "display_name": "Emma | Learning to Trade",
+              "profile_pic": "https://example.com/profiles/emma.jpg"
+            },
+            "content": "This is exactly what I needed! Just signed up for a demo account on Deriv 🙌",
+            "likes": 67,
+            "timestamp": "2023-11-13T13:10:45Z"
+          }
+        },
+        {
+          "post_id": "ig_456789012",
+          "post_url": "https://example.com/instagram/p/456789012",
+          "author": {
+            "id": "ig_u567890",
+            "username": "trading.mindset",
+            "display_name": "Lisa | Trading Psychology 🧠",
+            "profile_pic": "https://example.com/profiles/lisa.jpg",
+            "followers_count": 41300
+          },
+          "content": "💡 Poll Results: Your Favorite Trading Platform Features\n\nTop 3 most wanted features:\n1. Quick withdrawals (87%)\n2. Reliable execution (92%)\n3. Good customer support (78%)\n\nSwipe to see which platforms rated highest! Spoiler: @deriv topped 2 categories 🏆\n\n#TradingPlatforms #TradersPoll #DerivTrading #TradingCommunity",
+          "media": {
+            "type": "carousel",
+            "items": [
+              "https://example.com/images/poll_results1.jpg",
+              "https://example.com/images/poll_results2.jpg",
+              "https://example.com/images/poll_results3.jpg"
+            ]
+          },
+          "engagement": {
+            "likes": 5678,
+            "comments": 289,
+            "shares": 178,
+            "saves": 890
+          },
+          "timestamp": "2023-11-12T18:20:00Z",
+          "hashtags": ["TradingPlatforms", "TradersPoll", "DerivTrading", "TradingCommunity"],
+          "top_comment": {
+            "comment_id": "igc_654321",
+            "author": {
+              "id": "ig_u678901",
+              "username": "pro_trader_academy",
+              "display_name": "Pro Trader Academy",
+              "profile_pic": "https://example.com/profiles/pta.jpg"
+            },
+            "content": "Great survey! Customer support is crucial - had amazing experience with Deriv's live chat support recently 👏",
+            "likes": 234,
+            "timestamp": "2023-11-12T19:05:30Z"
+          }
+        }
+      ],
+      "pagination": {
+        "current_page": 1,
+        "total_pages": 45,
+        "next_page": "https://example.com/instagram/posts?page=2",
+        "prev_page": null
+      }
+    },
+    "linkedin": {},
+    "twitter": {}
+  }
