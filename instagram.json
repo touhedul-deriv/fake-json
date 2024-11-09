@@ -208,61 +208,6 @@
                 }
             ],
             "created_at": "2023-11-20T20:00:00Z"
-        },
-        {
-            "post_id": "p987654325",
-            "post_url": "https://example.com/instagram/p/Bw7890mno",
-            "author": {
-                "user_id": "u571",
-                "username": "wanderlust_captures",
-                "display_name": "Travel Chronicles"
-            },
-            "content": "🌅 Sunrise at Mount Fuji hits different! Woke up at 3 AM for this shot but totally worth it. Swipe to see the progression of light over the landscape. Shot on Sony A7III, 24-70mm f/2.8\n\nThank you Japan for these magical moments! 🇯🇵 #Japan #MountFuji #TravelPhotography #SonyAlpha",
-            "engagement": {
-                "reactions": 1567,
-                "comments_count": 123,
-                "shares_count": 89
-            },
-            "comments": [
-                {
-                    "comment_id": "c123010",
-                    "author": {
-                        "user_id": "u899",
-                        "username": "photo_enthusiast",
-                        "display_name": "Photography Lover"
-                    },
-                    "content": "These colors are incredible! What post-processing software did you use? The gradient in the sky is perfect! 📸",
-                    "engagement": {
-                        "reactions": 89,
-                        "replies_count": 5,
-                        "shares": 2
-                    },
-                    "created_at": "2023-11-20T23:30:22Z"
-                },
-                {
-                    "comment_id": "c123011",
-                    "author": {
-                        "user_id": "u900",
-                        "username": "japan_lover",
-                        "display_name": "Japan Explorer"
-                    },
-                    "content": "Planning to visit next spring! Which viewing point did you shoot this from? The composition is stunning! 🗻",
-                    "engagement": {
-                        "reactions": 67,
-                        "replies_count": 3,
-                        "shares": 1
-                    },
-                    "created_at": "2023-11-20T23:45:15Z"
-                }
-            ],
-            "created_at": "2023-11-20T22:00:00Z",
-            "location": "Mount Fuji, Japan",
-            "hashtags": [
-                "Japan",
-                "MountFuji",
-                "TravelPhotography",
-                "SonyAlpha"
-            ]
         }
     ]
 }

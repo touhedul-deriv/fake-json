@@ -220,57 +220,6 @@
                 }
             ],
             "created_at": "2023-11-20T22:00:00Z"
-        },
-        {
-            "post_id": "p789127",
-            "post_url": "https://example.com/linkedin/posts/789127",
-            "author": {
-                "user_id": "u460",
-                "username": "thomas-career",
-                "display_name": "Thomas Bennett",
-                "title": "Career Development Coach | TEDx Speaker"
-            },
-            "content": "🎉 Thrilled to announce the launch of my new book: 'Reinventing Your Career Path: A Guide to Professional Transformation'\n\nAfter coaching 500+ professionals through career transitions, I've distilled the key insights into this comprehensive guide.\n\nKey topics covered:\n• Identity transition in career changes\n• Skill assessment and development\n• Network building in new industries\n• Personal branding for career pivots\n\nAvailable now on Amazon and major bookstores.\n\nSpecial launch week discount - link in comments.\n\n#CareerDevelopment #ProfessionalGrowth #CareerTransition",
-            "engagement": {
-                "reactions": 2345,
-                "comments_count": 178,
-                "shares_count": 456
-            },
-            "comments": [
-                {
-                    "comment_id": "c123010",
-                    "author": {
-                        "user_id": "u798",
-                        "username": "jane-hr",
-                        "display_name": "Jane Morrison",
-                        "title": "HR Director | Fortune 500"
-                    },
-                    "content": "Already ordered my copy! Your insights at last month's HR conference were invaluable. Looking forward to implementing these strategies in our organization's career development program.",
-                    "engagement": {
-                        "reactions": 234,
-                        "replies_count": 12,
-                        "shares": 8
-                    },
-                    "created_at": "2023-11-21T02:30:22Z"
-                },
-                {
-                    "comment_id": "c123011",
-                    "author": {
-                        "user_id": "u799",
-                        "username": "career-mentor",
-                        "display_name": "Richard Lee",
-                        "title": "Career Mentor | Professional Development Expert"
-                    },
-                    "content": "Congratulations Thomas! Your approach to career transitions has always been innovative. Would love to feature this on my podcast. Let's connect!",
-                    "engagement": {
-                        "reactions": 156,
-                        "replies_count": 7,
-                        "shares": 5
-                    },
-                    "created_at": "2023-11-21T03:15:30Z"
-                }
-            ],
-            "created_at": "2023-11-21T01:00:00Z"
         }
     ]
 }

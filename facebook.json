@@ -208,59 +208,6 @@
                 }
             ],
             "created_at": "2023-11-13T08:45:12Z"
-        },
-        {
-            "post_id": "p891234567",
-            "post_url": "https://example.com/facebook/post/p891234567",
-            "author": {
-                "user_id": "u456123",
-                "username": "foodie_adventures",
-                "display_name": "Chef Sarah"
-            },
-            "content": "🍜 Finally mastered the perfect Ramen recipe! After 6 months of experimenting, found the secret to that umami-rich broth. Homemade noodles make such a difference! Swipe for the step-by-step process and recipe in comments. #HomeCooking #RamenLover #Foodie",
-            "engagement": {
-                "reactions": 567,
-                "comments_count": 89,
-                "shares_count": 78
-            },
-            "comments": [
-                {
-                    "comment_id": "c567890",
-                    "author": {
-                        "user_id": "u891234",
-                        "username": "noodle_master",
-                        "display_name": "Asian Cuisine Lover"
-                    },
-                    "content": "That broth looks incredible! The perfect balance of ingredients. Could you share your noodle-making technique? Mine always end up too chewy.",
-                    "engagement": {
-                        "reactions": 92,
-                        "replies_count": 8,
-                        "shares": 4
-                    },
-                    "created_at": "2023-11-12T17:15:44Z"
-                },
-                {
-                    "comment_id": "c567891",
-                    "author": {
-                        "user_id": "u891235",
-                        "username": "home_cook_101",
-                        "display_name": "Home Cook"
-                    },
-                    "content": "Made this recipe last night - absolute game changer! The marinated eggs were perfect. Thanks for sharing your journey!",
-                    "engagement": {
-                        "reactions": 78,
-                        "replies_count": 5,
-                        "shares": 2
-                    },
-                    "created_at": "2023-11-12T18:20:30Z"
-                }
-            ],
-            "created_at": "2023-11-12T16:33:21Z",
-            "hashtags": [
-                "HomeCooking",
-                "RamenLover",
-                "Foodie"
-            ]
         }
     ]
 }
